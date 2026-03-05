@@ -1,5 +1,5 @@
 shoplist = ['apple', 'mango', 'carrot', 'banana']
-name = 'swaroop'
+name = 'mahir'
 
 # Indexing or 'Subscription' operation #
 print('Item 0 is', shoplist[0])
