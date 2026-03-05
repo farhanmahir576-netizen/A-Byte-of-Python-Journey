@@ -3,7 +3,9 @@ class Person:
         self.name = name
 
     def say_hi(self):
-        print('Hello, {} how are you?'.format(self.name))
+        print('Hello, my name is', self.name)
 
 p = Person('Mahir')
 p.say_hi()
+# The previous 2 lines can also be written as
+# Person('Mahir').say_hi()
