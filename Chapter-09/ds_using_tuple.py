@@ -1,7 +1,3 @@
-# I would recommend always using parentheses
-# to indicate start and end of tuple
-# even though parentheses are optional.
-# Explicit is better than implicit.
 zoo = ('python', 'elephant', 'penguin')
 print('Number of animals in the zoo is', len(zoo))
 
